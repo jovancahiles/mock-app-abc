@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mock-app-abc/static/css/main.69eda509.chunk.css",
+    "main.js": "/mock-app-abc/static/js/main.4cedd1a5.chunk.js",
+    "main.js.map": "/mock-app-abc/static/js/main.4cedd1a5.chunk.js.map",
+    "runtime-main.js": "/mock-app-abc/static/js/runtime-main.8faf98c6.js",
+    "runtime-main.js.map": "/mock-app-abc/static/js/runtime-main.8faf98c6.js.map",
+    "static/js/2.6575bcc5.chunk.js": "/mock-app-abc/static/js/2.6575bcc5.chunk.js",
+    "static/js/2.6575bcc5.chunk.js.map": "/mock-app-abc/static/js/2.6575bcc5.chunk.js.map",
+    "index.html": "/mock-app-abc/index.html",
+    "precache-manifest.931c5fe608f2884ccf5e0c2fe5cabef0.js": "/mock-app-abc/precache-manifest.931c5fe608f2884ccf5e0c2fe5cabef0.js",
+    "service-worker.js": "/mock-app-abc/service-worker.js",
+    "static/css/main.69eda509.chunk.css.map": "/mock-app-abc/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.6575bcc5.chunk.js.LICENSE.txt": "/mock-app-abc/static/js/2.6575bcc5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8faf98c6.js",
+    "static/js/2.6575bcc5.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.4cedd1a5.chunk.js"
+  ]
+}
